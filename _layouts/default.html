@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/fix.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -16,15 +17,20 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
         {% if site.download_url %}
         <ul class="downloads">
-          <li><a href="{{ site.download_url }}"><strong>DownloadZIP</strong> v.1.0.0</a></li>
+          <li>
+            <a href="{{ site.download_url }}">
+              <strong>Download ZIP</strong> 
+              <span>v.1.0.0</span>
+            </a>
+          </li>
         </ul>
         {% endif %}
       </header>
