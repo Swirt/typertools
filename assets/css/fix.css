@@ -1,0 +1,11 @@
+HEADER IMG {
+  margin: 0 0 20px;
+}
+HEADER LI {
+  border: none;
+  width: 100%;
+}
+HEADER UL A {
+  height: 32px;
+  padding-top: 8px;
+}
