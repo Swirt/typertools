@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About extension
 
-You can use the [editor on GitHub](https://github.com/Swirt/typertools-public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Описание на русском
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TyperTools - это расширение Photoshop, предназначенное для упрощения рутинной работы по переносу текста на изображение, его центровке и назначению стилей.
 
-```markdown
-Syntax highlighted code block
+### Требования
 
-# Header 1
-## Header 2
-### Header 3
+* Adobe Photoshop CC 2015 или новее
+* Windows 8 или новее
 
-- Bulleted
-- List
+### Установка
 
-1. Numbered
-2. List
+1. Скачайте и распакуйте архив
+2. Закройте Photoshop, если он открыт
+3. Запустите файл ``install.cmd``
+4. Откройте Photoshop и выберите в меню ``Окно`` > ``Расширения`` > ``Typer Tools``
 
-**Bold** and _Italic_ and `Code` text
+### Видео
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Swirt/typertools-public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{% include youtube.html src="https://www.youtube.com/embed/I1NQLBDjpIw" %}
