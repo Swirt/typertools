@@ -41,4 +41,4 @@ TyperTools - это расширение Photoshop, созданное для т
 
 ### Видео с инструкциями
 
-{% include youtube.html src="https://youtu.be/AWnu-J0wGRU" %}
+{% include youtube.html src="https://www.youtube.com/embed/AWnu-J0wGRU" %}
