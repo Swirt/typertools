@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.typertools-page {
+  HEADER IMG {
+    margin: 0 0 20px;
+  }
+  .downloads {
+	LI {
+      border: none;
+      width: 100%;
+    }
+    A {
+      height: 32px;
+      padding-top: 8px;
+    }
+  }
+  SECTION CODE {
+    background: #f8f8f8;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+    padding: 3px 4px;
+  }
+  FOOTER P {
+  	margin-bottom: 5px;
+  }
+}
+

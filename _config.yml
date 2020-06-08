@@ -1,7 +1,9 @@
 title: TyperTools
 description: Photoshop extension for typesetters.
-logo: /typertools/assets/img/logo.png
-download_url: /typertools/typertools-1.0.0.zip
+logo: /assets/img/typertools.png
+download_url: /builds/typertools-1.0.0.zip
 app_version: 1.0.0
+author_name: Swirt
+author_url: https://telegram.me/swirt
 google_analytics: UA-168805410-1
 theme: jekyll-theme-minimal

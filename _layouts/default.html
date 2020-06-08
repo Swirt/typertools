@@ -5,16 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-    <title>{{ site.title }}</title>
+    <title>{{ site.title }} | {{ site.description }}</title>
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="/typertools/assets/css/fix.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
+    <div class="typertools-page wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
@@ -27,7 +26,7 @@
         {% if site.download_url %}
         <ul class="downloads">
           <li>
-            <a href="{{ site.download_url }}">
+            <a href="{{ site.download_url | relative_url }}">
               <strong>Download ZIP</strong> 
               <span>v.{{ site.app_version | default: "1.0.0" }}</span>
             </a>
@@ -40,6 +39,10 @@
       {{ content }}
 
       </section>
+    <footer>
+        <p>Developed by <a href="{{ site.author_url }}" target="_blank">{{ site.author_name }}</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
