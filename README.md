@@ -12,7 +12,8 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 1. Download and unpack the archive.
 2. Close Photoshop (if it is open).
 3. Launch ``install.cmd``.
-4. Open Photoshop and in the upper menu click the following: ``Window`` > ``Extensions`` > ``Typer Tools``.
+4. Open Photoshop and in the upper menu click the following:  
+``Window`` > ``Extensions`` > ``Typer Tools``.
 5. For detailed instructions, click ``Help`` in the lower half of the exnension’s window or watch the video below.
 
 ### Video Guide
@@ -36,7 +37,8 @@ TyperTools - это расширение Photoshop, созданное для т
 1. Скачайте и распакуйте архив.
 2. Закройте Photoshop, если он открыт.
 3. Запустите файл ``install.cmd``.
-4. Откройте Photoshop и выберите в верхнем меню: ``Окно`` > ``Расширения`` > ``Typer Tools``.
+4. Откройте Photoshop и выберите в верхнем меню:  
+``Окно`` > ``Расширения`` > ``Typer Tools``.
 5. Для получения инструкций нажмите на кнопку ``Справка`` в нижней части окна расширения или посмотрите видео ниже.
 
 ### Видео с инструкциями
