@@ -5,7 +5,8 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 ### Requirements
 
 * Windows 8 or newer.
-* Adobe Photoshop CC 2015 or newer.
+* Adobe Photoshop CC 2015 or newer.  
+(There may be problems with some portable builds)
 
 ### Installation
 
@@ -30,7 +31,8 @@ TyperTools - это расширение Photoshop, созданное для т
 ### Требования
 
 * Windows 8 или новее.
-* Adobe Photoshop CC 2015 или новее.
+* Adobe Photoshop CC 2015 или новее.  
+(Могут быть проблемы с некоторыми портативными сборками)
 
 ### Установка
 
