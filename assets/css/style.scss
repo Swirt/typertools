@@ -17,11 +17,16 @@
       padding-top: 8px;
     }
   }
-  SECTION CODE {
-    background: #f8f8f8;
-    border-radius: 5px;
-    border: 1px solid #e5e5e5;
-    padding: 2px 4px;
+  SECTION {
+    CODE {
+      background: #f8f8f8;
+      border-radius: 5px;
+      border: 1px solid #e5e5e5;
+      padding: 2px 4px;
+    }
+    HR {
+      margin: 20px 0;
+    }
   }
   FOOTER P {
     margin-bottom: 5px;
