@@ -19,8 +19,7 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 
 ### Video Guide
 
-*Coming soon...*
-
+{% include youtube.html src="https://www.youtube.com/embed/QwxG2S_PCMQ" %}
 
 ---
 
