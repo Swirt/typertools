@@ -32,7 +32,7 @@
         {% if site.download_url %}
         <ul class="downloads">
           <li>
-            <a href="{{ site.download_url | relative_url }}">
+            <a href="{{ site.download_url | relative_url }}" onclick="gtag('event', 'click_download');">
               <strong>Download ZIP</strong> 
               <span>v.{{ site.app_version | default: "1.0.0" }}</span>
             </a>
