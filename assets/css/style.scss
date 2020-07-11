@@ -20,22 +20,22 @@
   .changelog {
     border: 1px solid #e5e5e5;
     border-radius: 6px;
-    padding: 10px;
+    line-height: 1.2;
+    font-size: 12px;
   }
   .changelog-header {
     border-bottom: 1px solid #e5e5e5;
     padding: 10px 10px 5px;
   }
   .changelog-list {
-    padding: 5px 10px 10px;
-    margin-left: 15px;
+    padding: 5px 10px 10px 20px;
     DIV {
       position: relative;
     }
     DIV::before {
       position: absolute;
       content: '•';
-      left: -15px;
+      left: -10px;
     }
     DIV + DIV {
       margin-top: 3px;
