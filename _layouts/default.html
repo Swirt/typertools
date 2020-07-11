@@ -18,38 +18,38 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
+
   <body>
     <div class="typertools-page wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
         {% if site.download_url %}
-        <ul class="downloads">
-          <li>
-            <a href="{{ site.download_url | relative_url }}" onclick="gtag('event', 'click_download');">
-              <strong>Download ZIP</strong> 
-              <span>v.{{ site.app_version | default: "1.0.0" }}</span>
-            </a>
-          </li>
-        </ul>
+          <ul class="downloads">
+            <li>
+              <a href="{{ site.download_url | relative_url }}" onclick="gtag('event', 'click_download');">
+                <strong>Download ZIP</strong> 
+                <span>v.{{ site.app_version | default: "1.0.0" }}</span>
+              </a>
+            </li>
+          </ul>
         {% endif %}
+        {% include changelog.html %}
       </header>
+
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
-    <footer>
-        <p>Developed by <a href="{{ site.author_url }}" target="_blank">{{ site.author_name }}</a></p>
+
+      <footer>
+        <p>Developed by <a href="{{ site.author_url }}" target="_blank">{{ site.author_name }}</a> (<a href="{{ site.source_url }}" target="_blank">source code</a>)</p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
