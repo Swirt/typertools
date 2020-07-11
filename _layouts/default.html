@@ -38,16 +38,12 @@
           </ul>
         {% endif %}
         {% include changelog.html %}
+        <p>Developed by <a href="{{ site.author_url }}" target="_blank">{{ site.author_name }}</a> <i>(<a href="{{ site.source_url }}" target="_blank">source code</a>)</i></p>
       </header>
 
       <section>
         {{ content }}
       </section>
-
-      <footer>
-        <p>Developed by <a href="{{ site.author_url }}" target="_blank">{{ site.author_name }}</a> (<a href="{{ site.source_url }}" target="_blank">source code</a>)</p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
