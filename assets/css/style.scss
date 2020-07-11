@@ -8,13 +8,37 @@
     margin: 0 0 20px;
   }
   .downloads {
-  LI {
+    LI {
       border: none;
       width: 100%;
     }
     A {
       height: 32px;
       padding-top: 8px;
+    }
+  }
+  .changelog {
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 10px;
+  }
+  .changelog-header {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 10px 5px;
+  }
+  .changelog-list {
+    padding: 5px 10px 10px;
+    margin-left: 15px;
+    DIV {
+      position: relative;
+    }
+    DIV::before {
+      position: absolute;
+      content: '•';
+      left: -15px;
+    }
+    DIV + DIV {
+      margin-top: 3px;
     }
   }
   SECTION {
