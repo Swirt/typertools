@@ -1,10 +1,10 @@
-## About extension
+## About Extension
 
 TyperTools is a Photoshop extension, designed for typesetters working with manga and comics script. Its purpose is to simplify the routine tasks of working with text, such as placing it on an image, aligning the text and performing style management.
 
 ### Requirements
 
-* Windows 8/macOS 11 or newer.
+* Windows 8/macOS 10.9 or newer.
 * Adobe Photoshop CC 2015 or newer.  
 (There may be problems with some portable builds)
 
@@ -17,9 +17,10 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 ``Window`` > ``Extensions`` > ``Typer Tools``.
 5. For detailed instructions, click ``Help`` in the lower half of the exnension’s window or watch the video below.
 
-### Interface Languages
+### Available Interface Languages
 
-English, French, German, Russian
+English, French, German, Russian.  
+You can suggest a translation into your language via a pull request on [Github](https://github.com/Swirt/typertools-src).
 
 ### Video Guide
 
@@ -35,7 +36,7 @@ TyperTools - это расширение Photoshop, созданное для т
 
 ### Требования
 
-* Windows 8/macOS 11 или новее.
+* Windows 8/macOS 10.9 или новее.
 * Adobe Photoshop CC 2015 или новее.  
 (Могут быть проблемы с некоторыми портативными сборками)
 
@@ -48,9 +49,10 @@ TyperTools - это расширение Photoshop, созданное для т
 ``Окно`` > ``Расширения`` > ``Typer Tools``.
 5. Для получения инструкций нажмите на кнопку ``Справка`` в нижней части окна расширения или посмотрите видео ниже.
 
-### Interface Languages
+### Доступные языки интерфейса
 
-Английский, Немецкий, Русский, Французский
+Английский, Немецкий, Русский, Французский.  
+Вы можете предложить перевод на свой язык с помощью пул-реквеста на [Github](https://github.com/Swirt/typertools-src).
 
 ### Видео с инструкциями
 
