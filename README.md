@@ -17,6 +17,10 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 ``Window`` > ``Extensions`` > ``Typer Tools``.
 5. For detailed instructions, click ``Help`` in the lower half of the exnension’s window or watch the video below.
 
+### Interface Languages
+
+English, French, German, Russian
+
 ### Video Guide
 
 {% include youtube.html src="https://www.youtube.com/embed/QwxG2S_PCMQ" %}
@@ -43,6 +47,10 @@ TyperTools - это расширение Photoshop, созданное для т
 4. Откройте Photoshop и выберите в верхнем меню:  
 ``Окно`` > ``Расширения`` > ``Typer Tools``.
 5. Для получения инструкций нажмите на кнопку ``Справка`` в нижней части окна расширения или посмотрите видео ниже.
+
+### Interface Languages
+
+Английский, Немецкий, Русский, Французский
 
 ### Видео с инструкциями
 
