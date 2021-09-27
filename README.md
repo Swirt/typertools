@@ -24,7 +24,7 @@ You can suggest a translation into your language via a pull request on [Github](
 
 ### Video Guide
 
-{% include youtube.html src="https://www.youtube.com/embed/QwxG2S_PCMQ" %}
+{% include youtube.html src="https://www.youtube.com/embed/2lW_QnqmECI" %}
 
 
 ---
@@ -56,4 +56,4 @@ TyperTools - это расширение Photoshop, созданное для т
 
 ### Видео с инструкциями
 
-{% include youtube.html src="https://www.youtube.com/embed/AWnu-J0wGRU" %}
+{% include youtube.html src="https://www.youtube.com/embed/RXb7F1rCggY" %}
