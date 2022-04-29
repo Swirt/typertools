@@ -6,7 +6,7 @@ TyperTools is a Photoshop extension, designed for typesetters working with manga
 
 * Windows 8/macOS 10.9 or newer.
 * Adobe Photoshop CC 2015 or newer.  
-(There may be problems with some portable builds)
+(There may be problems with some portable or lightweight builds)
 
 ### Installation
 
@@ -20,7 +20,7 @@ or ``install_mac.sh`` (mac, from the Terminal).
 
 ### Available Interface Languages
 
-English, French, German, Russian.  
+English, French, German, Russian, Ukrainian.  
 You can suggest a translation into your language via a pull request on [Github](https://github.com/Swirt/typertools-src).
 
 ### Video Guide
@@ -39,7 +39,7 @@ TyperTools - это расширение Photoshop, созданное для т
 
 * Windows 8/macOS 10.9 или новее.
 * Adobe Photoshop CC 2015 или новее.  
-(Могут быть проблемы с некоторыми портативными сборками)
+(Могут быть проблемы с некоторыми портативными или облегчёнными сборками)
 
 ### Установка
 
@@ -53,7 +53,7 @@ TyperTools - это расширение Photoshop, созданное для т
 
 ### Доступные языки интерфейса
 
-Английский, Немецкий, Русский, Французский.  
+Английский, Немецкий, Русский, Украинский, Французский.  
 Вы можете предложить перевод на свой язык с помощью пул-реквеста на [Github](https://github.com/Swirt/typertools-src).
 
 ### Видео с инструкциями
