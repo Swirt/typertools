@@ -18,9 +18,16 @@ or ``install_mac.sh`` (mac, from the Terminal).
 ``Window`` > ``Extensions`` > ``Typer Tools``.
 5. For detailed instructions, click ``Help`` in the lower half of the exnension’s window or watch the video below.
 
+### Common problems
+
+1. If TyperTools doesn't appear in the list of extensions, try installing it again, making sure you've closed Photoshop.
+2. If you see only a white screen instead of the interface, your Photoshop build probably doesn't support extensions. Try installing the most complete version.
+3. In Photoshop version 2022 and later, extension support can be disabled by default. In this case, you need to enable it manually in the settings:
+``Edit`` > ``Preferences`` > ``Plugins`` > ``Legacy Extensions`` > ``Load Extension Panels`` (check the box)
+
 ### Available Interface Languages
 
-English, French, German, Portuguese, Russian, Ukrainian.  
+English, French, German, Portuguese, Russian, Spanish, Ukrainian.  
 You can suggest a translation into your language via a pull request on [Github](https://github.com/Swirt/typertools-src).
 
 ### Video Guide
@@ -51,9 +58,16 @@ TyperTools - это расширение Photoshop, созданное для т
 ``Окно`` > ``Расширения`` > ``Typer Tools``.
 5. Для получения инструкций нажмите на кнопку ``Справка`` в нижней части окна расширения или посмотрите видео ниже.
 
+### Распространённые проблемы
+
+1. Если после установки TyperTools не появляется в списке расширений, то попробуйте установить его ещё раз, убедившись, что вы закрыли Photoshop.
+2. Если вместо интерфейса вы видите только белый экран, то ваша сборка Photoshop, вероятно, не поддерживает расширения. Попробуйте установить наиболее полную версию.
+3. В Photoshop версии 2022 и новее поддержка расширений может быть отключена по умолчанию. В таком случае нужно включить её вручную в настройках:
+``Редактирование`` > ``Настройки`` > ``Подключаемые модули`` > ``Устаревшие расширения`` > ``Загрузить панель расширения`` (поставить галочку)
+
 ### Доступные языки интерфейса
 
-Английский, Немецкий, Португальский, Русский, Украинский, Французский.  
+Английский, Испанский, Немецкий, Португальский, Русский, Украинский, Французский.  
 Вы можете предложить перевод на свой язык с помощью пул-реквеста на [Github](https://github.com/Swirt/typertools-src).
 
 ### Видео с инструкциями
