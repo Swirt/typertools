@@ -22,7 +22,8 @@ or ``install_mac.sh`` (mac, from the Terminal).
 
 1. If TyperTools doesn't appear in the list of extensions, try installing it again, making sure you've closed Photoshop.
 2. If you see only a white screen instead of the interface, your Photoshop build probably doesn't support extensions. Try installing the most complete version.
-3. In Photoshop version 2022 and later, extension support can be disabled by default. In this case, you need to enable it manually in the settings:
+3. If you have a white screen, in some cases it may also help to install an older version of the extension, such as [1.4.4](https://swirt.github.io/typertools/builds/typertools-1.4.4.zip).
+4. In Photoshop version 2022 and later, extension support can be disabled by default. In this case, you need to enable it manually in the settings:
 ``Edit`` > ``Preferences`` > ``Plugins`` > ``Legacy Extensions`` > ``Load Extension Panels`` (check the box)
 
 ### Available Interface Languages
@@ -62,7 +63,8 @@ TyperTools - это расширение Photoshop, созданное для т
 
 1. Если после установки TyperTools не появляется в списке расширений, то попробуйте установить его ещё раз, убедившись, что вы закрыли Photoshop.
 2. Если вместо интерфейса вы видите только белый экран, то ваша сборка Photoshop, вероятно, не поддерживает расширения. Попробуйте установить наиболее полную версию.
-3. В Photoshop версии 2022 и новее поддержка расширений может быть отключена по умолчанию. В таком случае нужно включить её вручную в настройках:
+3. В некоторых случаях при белом экране вам также может помочь установка более старой версии расширения, например [1.4.4](https://swirt.github.io/typertools/builds/typertools-1.4.4.zip).
+4. В Photoshop версии 2022 и новее поддержка расширений может быть отключена по умолчанию. В таком случае нужно включить её вручную в настройках:
 ``Редактирование`` > ``Настройки`` > ``Подключаемые модули`` > ``Устаревшие расширения`` > ``Загрузить панель расширения`` (поставить галочку)
 
 ### Доступные языки интерфейса
