@@ -28,7 +28,7 @@ or ``install_mac.sh`` (mac, from the Terminal).
 
 ### Available Interface Languages
 
-English, French, German, Portuguese, Russian, Spanish, Ukrainian.  
+English, French, German, Portuguese, Russian, Spanish, Turkish, Ukrainian.  
 You can suggest a translation into your language via a pull request on [Github](https://github.com/Swirt/typertools-src).
 
 ### Video Guide
@@ -69,7 +69,7 @@ TyperTools - это расширение Photoshop, созданное для т
 
 ### Доступные языки интерфейса
 
-Английский, Испанский, Немецкий, Португальский, Русский, Украинский, Французский.  
+Английский, Испанский, Немецкий, Португальский, Русский, Турецкий, Украинский, Французский.  
 Вы можете предложить перевод на свой язык с помощью пул-реквеста на [Github](https://github.com/Swirt/typertools-src).
 
 ### Видео с инструкциями
